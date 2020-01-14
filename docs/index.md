@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Description
-
 Hex is a strategy board game for two players played on a hexagonal grid. Players alternate placing markers on unoccupied spaces in an attempt to link their opposite sides of the board in an unbroken chain.
 
 *Project carried out as part of my second year at [Paul Sabatier University](http://www.univ-tlse3.fr/).*
