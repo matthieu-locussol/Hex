@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+version: 1.0.0
+name: Hex
+description: Hex game
+url: https://matthieu-locussol.github.io/Hex
+repository: https://github.com/matthieu-locussol/Hex
+show_downloads: true
+github:
+  windows_url_64: https://github.com/matthieu-locussol/Hex/releases/latest/download/Hex-windows_x64.zip
+  windows_url_86: https://github.com/matthieu-locussol/Hex/releases/latest/download/Hex-windows_x86.zip
